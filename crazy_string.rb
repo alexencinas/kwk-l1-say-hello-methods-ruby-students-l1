@@ -1,3 +1,3 @@
 def crazy_strings
-  puts "Hello Lydia".
+  puts "Hello Lydia".reverse.
   puts"Hello Emma
